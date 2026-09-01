@@ -1,8 +1,8 @@
-# Hi, I'm Suman Reddy 👋
+# Hi, I'm Suman Reddy!
 
 AI Product Consultant and Independent Builder with 12+ years across Dream11, BookMyShow, and Glance.
 
-I work at the intersection of product strategy and applied AI — advising founders on 0→1 execution, building LLM-powered consumer products, and contributing open-source tooling for the PM community.
+I work at the intersection of product strategy and applied AI advising founders on 0→1 execution, building LLM-powered consumer products, and contributing open-source tooling for the PM community.
 
 ### What I build
 - 🤖 RAG-based systems and AI workflows for real-world reliability
